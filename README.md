@@ -1,2 +1,1 @@
-# 100-Days-of-Python-Turtle-Crossing-Game
-This repository contains the Turtle Crossing game I developed as part of the "100 Days of Python" course by Dr. Angela Yu.
+Please note that all of the software I create for personal use and enjoyment will always be free of charge and open-source. Feel free to use, modify, and distribute any of these scripts to your heart's content.
